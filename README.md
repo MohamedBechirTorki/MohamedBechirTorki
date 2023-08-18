@@ -43,7 +43,8 @@
 
 ###
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbechirtorki&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+![Snake animation](https://github.com/mohamedbechirtorki/mohamedbechirtorki/blob/output/github-contribution-grid-snake.svg)
