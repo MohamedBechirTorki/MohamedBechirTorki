@@ -42,7 +42,7 @@
 </div>
 
 ###
-![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbechirtorki&layout=compact&theme=vision-friendly-dark)
+[![Top languges](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbechirtorki&layout=compact&theme=vision-friendly-dark)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbechirtorki&layout=compact&theme=vision-friendly-dark)]
 
