@@ -47,4 +47,4 @@
 
 ###
 
-![Snake animation](https://github.com/mohamedbechirtorki/mohamedbechirtorki/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mohamedbechirtorki/blob/output/github-contribution-grid-snake.svg)
