@@ -1,3 +1,3 @@
-<h2 align="left">Computer Science student.</h2>
+<h2 align="left">Data engineering student.</h2>
 
  
